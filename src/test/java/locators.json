@@ -1,8 +1,7 @@
 {
-  "SplashScreen": {
-    "pageTitle": "@AppLoading_screen_title",
-    "infoText": "@info_text",
-    "loginButton": "@login_button",
-    "createAccountButton": "@create_account_button"
+  "LoginScreen": {
+    "nameInput": "@username",
+    "passwordInput": "@password",
+    "loginButton": "@loginBtn"
   }
 }

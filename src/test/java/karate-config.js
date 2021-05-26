@@ -8,11 +8,18 @@ function fn() {
         "platformName": "Android",
         "platformVersion": "11",
         "deviceName": "Pixel 29",
-//        "appPackage": "com.google.android.calculator",
-        "appPackage": "com.android.chrome",
         "automationName": "UiAutomator2",
+//      for calculator
+//        "appPackage": "com.google.android.calculator",
 //        "appActivity": "com.android.calculator2.Calculator",
-        "appActivity": "com.google.android.apps.chrome.IntentDispatcher",
+
+//      for theApp
+//       "appActivity": ".MainActivity",
+//         "appPackage": "io.cloudgrey.the_app"
+
+//      for google chrome
+        "appPackage": "com.android.chrome",
+        "appActivity": "com.google.android.apps.chrome.Main",
  }
 
 
