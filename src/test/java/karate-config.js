@@ -14,12 +14,12 @@ function fn() {
 //        "appActivity": "com.android.calculator2.Calculator",
 
 //      for theApp
-//       "appActivity": ".MainActivity",
-//         "appPackage": "io.cloudgrey.the_app"
+       "appActivity": ".MainActivity",
+         "appPackage": "io.cloudgrey.the_app"
 
 //      for google chrome
-        "appPackage": "com.android.chrome",
-        "appActivity": "com.google.android.apps.chrome.Main",
+//        "appPackage": "com.android.chrome",
+//        "appActivity": "com.google.android.apps.chrome.Main",
  }
 
 
