@@ -20,6 +20,10 @@ function fn() {
 //      for google chrome
 //        "appPackage": "com.android.chrome",
 //        "appActivity": "com.google.android.apps.chrome.Main",
+
+//      for ApiDemos
+//       "appActivity": ".ApiDemos",
+//       "appPackage": "io.appium.android.apis"
  }
 
 

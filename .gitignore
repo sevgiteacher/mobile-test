@@ -1,8 +1,9 @@
-# Default ignored files
 target/
 test-output/
 .idea/
 FinspireApiTestFramework.iml/
+CreateAccount.mp4/
+CreateAccount.mp4
 *.iml
 .DS_Store
 .idea
